@@ -1,0 +1,49 @@
+# 🛒 Retail Profit Analysis
+
+This project is a simple breakdown of how retail businesses can use their sales data to understand which products, regions, or categories are doing well and which ones need improvement.
+I worked with Excel to analyze key trends in profit, sales, and product performance.
+
+---
+
+## 📦 About the Dataset
+
+The Excel file `retail_profit_data.xlsx` contains detailed records of retail sales, including:
+
+- Product categories
+- Order quantities
+- Sales figures
+- Profit margins
+- Regional performance
+
+The goal was to figure out which areas of the business were generating the most value — and where resources might be better allocated.
+
+---
+
+## 📊 What This Project Covers
+
+- How different product categories perform in terms of profit
+- Which regions are generating the most sales
+- The relationship between order volume and profitability
+- Identifying patterns that could help improve business decisions
+
+This was all done in Excel, using pivot tables, formulas, and basic charts.
+
+---
+
+## 💡 Tools Used
+
+- **Microsoft Excel** – for all cleaning, analysis, and visuals
+- **Power BI** – dashboard (to be uploaded later)
+- **GitHub** – to organize and share the work
+
+---
+
+## 📌 What’s Coming Next
+
+- [ ] Upload Power BI dashboard version of this project
+- [ ] Add screenshots of the visuals
+- [ ] Share final business insights and recommendations
+- [ ] Design a visual layout in Figma (optional)
+
+---
+
